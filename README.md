@@ -19,5 +19,5 @@
 4. 貼在記事本，並改名字叫div.txt
 5. 下載YT_member_emoji_output.exe，並打開它。
 6. 你會得到一個extra_emojis_任意名字.txt
-7. 放在Youtube Twitch Chatroom mix.exe同一目錄下即可，下載啟動會自動抓取。
-## *若抓取失敗，可到emoji_download_log.txt查看
+7. 放在Youtube Twitch Chatroom mix.exe同一目錄下即可，下一次啟動會自動抓取。
+## *若抓取失敗，可到emoji_download_log.txt查看，有可能短時間抓取太多次被Ban IP。
