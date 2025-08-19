@@ -6,8 +6,8 @@
 原Python開發，以Auto-py-to-exe轉換為windows即開即用軟件。  
 
 ## 使用方法:
-1. 先下載Youtube-Twitch-Chatroom-mix.zip 
-2. 解壓縮，打開Youtube Twitch Chatroom mix.exe即可 
+1. 先下載Youtube.Twitch.Chatroom.mix.zip 
+2. 解壓縮，打開YT Chat mix.exe即可 
 
 首次啟動會自動下載emoji和Youtube emoji(未支援twitch emoji)
 
