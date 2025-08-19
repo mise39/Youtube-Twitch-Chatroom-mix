@@ -1,4 +1,5 @@
 # 本程式是Youtube和Twitch的二合一聊天室(只有顯示功能)
+# 無需登入，只要url即可!
 本程式建構於 90% Grok + 10% 人工修正，  
 原Python開發，以Auto-py-to-exe轉換為windows即開即用軟件。  
 
