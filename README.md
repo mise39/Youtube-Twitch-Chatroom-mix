@@ -2,12 +2,12 @@
 # 無需登入，只要url即可! 
 
 
-本程式建構於 90% Grok + 10% 人工修正，  
+本程式建構於 80% Grok + 20% 人工修正，  
 原Python開發，以Auto-py-to-exe轉換為windows即開即用軟件。  
 
 ## 使用方法:
-1. 先下載Youtube.Twitch.Chatroom.mix.zip 
-2. 解壓縮，打開YT Chat mix.exe即可 
+1. 先下載YTTVchat.zip  
+2. 解壓縮，打開YTTVchat.exe即可 
 
 首次啟動會自動下載emoji和Youtube emoji(未支援twitch emoji)
 
@@ -17,7 +17,7 @@
 3. 像這張圖，指到剛好是紫色框框，每一個格都有框好頻道會員emoji，然後移動右邊div id="emoji"，右鍵複製元素。 
 ![image](https://github.com/mise39/Youtube-Twitch-Chatroom-mix/blob/main/teach01.jpg)
 4. 貼在記事本，並改名字叫div.txt
-5. 下載YT_member_emoji_output.exe，並打開它。
+5. 下載[YT_emoji_output.exe](https://github.com/mise39/Youtube-Twitch-Chatroom-mix/releases/download/1.0/YT_emoji_output.exe)，並打開它。
 6. 你會得到一個extra_emojis_任意名字.txt
-7. 放在Youtube Twitch Chatroom mix.exe同一目錄下即可，下一次啟動會自動抓取。
+7. 放在YTTVchat.exe同一目錄下即可，下一次啟動會自動抓取。
 ## *若抓取失敗，可到emoji_download_log.txt查看，有可能短時間抓取太多次被Ban IP。
