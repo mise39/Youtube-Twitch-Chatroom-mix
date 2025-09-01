@@ -18,6 +18,6 @@
 ![image](https://github.com/mise39/Youtube-Twitch-Chatroom-mix/blob/main/teach01.jpg)
 4. 貼在記事本，並改名字叫div.txt
 5. 下載[Emoji_Output.exe](https://github.com/mise39/Youtube-Twitch-Chatroom-mix/releases/download/3.0/Emojis_Output.exe)，並打開它。
-6. 你會得到一個extra_emojis_任意名字.txt
+6. 你會得到一個extra_Youtube/Twitch_emojis_任意名字.txt
 7. 放在YTTVchat.exe同一目錄下即可，下一次啟動會自動抓取。
 ## *若抓取失敗，可到emoji_download_log.txt查看，開啟反追蹤/擋廣告有機會下載失敗，而短時間抓取太多次被Ban IP。
